@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipee/static/css/main.e6c13ad2.css",
+    "main.js": "/recipee/static/js/main.57253373.js",
+    "static/js/453.310c8a05.chunk.js": "/recipee/static/js/453.310c8a05.chunk.js",
+    "index.html": "/recipee/index.html",
+    "main.e6c13ad2.css.map": "/recipee/static/css/main.e6c13ad2.css.map",
+    "main.57253373.js.map": "/recipee/static/js/main.57253373.js.map",
+    "453.310c8a05.chunk.js.map": "/recipee/static/js/453.310c8a05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.57253373.js"
+  ]
+}
